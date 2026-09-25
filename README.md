@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060912,35:1f3b73,70:122040,100:060912&height=220&section=header&text=Paul%20Ouseph&fontSize=52&fontColor=dbe6f5&animation=fadeIn&fontAlignY=36&desc=AI%20and%20Cybersecurity%20%7C%20Bengaluru,%20India&descAlignY=58&descSize=17&descColor=8fa3c4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Calm+is+earned%2C+not+given.;M.Sc.+AI+and+Cybersecurity+%40+CHRIST+University;VAPT+%7C+Digital+Forensics+%7C+Threat+Detection;I+move+through+chaos+looking+for+the+breach+first.&font=Fira+Code&center=true&width=640&height=45&color=6f9bd1&vCenter=true&size=21&pause=1900&duration=3200&repeat=true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Finding+the+final+boss+hiding+in+your+open+ports.;M.Sc.+AI+and+Cybersecurity+%40+CHRIST+University;VAPT+%7C+Digital+Forensics+%7C+Threat+Detection;If+it+glitches%2C+I%27m+already+checking+the+logs.&font=Fira+Code&center=true&width=640&height=45&color=6f9bd1&vCenter=true&size=21&pause=1900&duration=3200&repeat=true" alt="Typing SVG" />
 
 <a href="https://github.com/paulouseph">
   <img src="https://komarev.com/ghpvc/?username=paulouseph&label=Profile+Views&color=1f3b73&style=flat-square" alt="profile views"/>
@@ -17,7 +17,7 @@
 
 ## 🌩️ About
 
-> *Most systems look calm right up until they aren't. I spend my time in the part most people skip — the moment right before something breaks — because that's where the real answer usually is.*
+> *Every system has a final boss. I just show up early to meet it — gauntlet already on.*
 
 - 🎓 M.Sc. Artificial Intelligence & Cyber Security, CHRIST (Deemed to be University), Bengaluru
 - ⚔️ VAPT, web application security, network security, digital forensics
